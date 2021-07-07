@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/weatherMongo
+Content-Type:application/json
+
+{
+    "zipCode": 98052,
+    "tempMetric": "imperial"
+}
